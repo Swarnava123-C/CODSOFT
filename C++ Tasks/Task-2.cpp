@@ -37,10 +37,10 @@ int main() {
     return 0;
 }
 //Output:
-//Simple Calculator
-//Enter first number: 55
-//Enter an operator (+, -, *, /): +
-//Enter second number: 55
-//Result: 110
+/*Simple Calculator
+Enter first number: 55
+Enter an operator (+, -, *, /): +
+Enter second number: 55
+Result: 110 */
 
 
