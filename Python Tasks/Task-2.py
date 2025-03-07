@@ -71,7 +71,6 @@ if __name__ == "__main__":
 # Enter first number: 1
 # Enter second number: 2
 # ✅ Result: 1.0 + 2.0 = 3.0
-#
 # 🖩 Simple Calculator
 # 1️⃣ Addition (+)
 # 2️⃣ Subtraction (-)
