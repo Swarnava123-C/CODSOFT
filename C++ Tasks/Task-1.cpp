@@ -25,8 +25,8 @@ int main() {
     return 0;
 }
 // Output:
-// Guess the number (between 1 and 100): 45
-// Congratulations! You guessed the correct number: 45
-//
-// Guess the number (between 1 and 100): 56
-// Too low! Try again:
+/* Guess the number (between 1 and 100): 45
+ Congratulations! You guessed the correct number: 45
+
+ Guess the number (between 1 and 100): 56
+ Too low! Try again: */
