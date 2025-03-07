@@ -80,7 +80,6 @@ if __name__ == "__main__":
 # Enter your choice: 1
 # Enter task description: Swarnava
 # ✅ Task added successfully!
-#
 # 📌 To-Do List Menu:
 # 1️⃣ Add Task
 # 2️⃣ View Tasks
@@ -90,7 +89,6 @@ if __name__ == "__main__":
 # Enter your choice: 1
 # Enter task description: Malakar
 # ✅ Task added successfully!
-#
 # 📌 To-Do List Menu:
 # 1️⃣ Add Task
 # 2️⃣ View Tasks
@@ -98,11 +96,9 @@ if __name__ == "__main__":
 # 4️⃣ Remove Task
 # 5️⃣ Exit
 # Enter your choice: 2
-#
 # 📋 To-Do List:
 # 1. [ ] Swarnava
 # 2. [ ] Malakar
-#
 # 📌 To-Do List Menu:
 # 1️⃣ Add Task
 # 2️⃣ View Tasks
@@ -110,13 +106,11 @@ if __name__ == "__main__":
 # 4️⃣ Remove Task
 # 5️⃣ Exit
 # Enter your choice: 3
-#
 # 📋 To-Do List:
 # 1. [ ] Swarnava
 # 2. [ ] Malakar
 # Enter task number to mark as completed: 2
 # ✅ Task marked as completed!
-#
 # 📌 To-Do List Menu:
 # 1️⃣ Add Task
 # 2️⃣ View Tasks
@@ -124,13 +118,11 @@ if __name__ == "__main__":
 # 4️⃣ Remove Task
 # 5️⃣ Exit
 # Enter your choice: 4
-#
 #📋 To-Do List:
 # 1. [ ] Swarnava
 # 2. [✔] Malakar
 # Enter task number to remove: 2
 # 🗑️ Task 'Malakar' removed!
-#
 # 📌 To-Do List Menu:
 # 1️⃣ Add Task
 # 2️⃣ View Tasks
